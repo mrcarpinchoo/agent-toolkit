@@ -12,7 +12,7 @@ As a <role>, I want <capability>, so that <benefit>.
 **Glossary**:
 - **<Term>**: <definition of any new domain term introduced by this story>
 
-**Backend acceptance criteria**:
+**Back-end acceptance criteria**:
 1. WHEN <trigger/condition>, THE SYSTEM SHALL <required behavior>.
 2. ...
 
